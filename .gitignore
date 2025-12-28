@@ -1,0 +1,15 @@
+# Node.js
+node_modules/
+
+* deps dirs
+pids
+logs
+*.pid
+*.seed
+*.pid.lock
+
+# optional npm cache
+.npm
+
+#env vars
+.env*
